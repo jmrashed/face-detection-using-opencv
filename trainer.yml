@@ -1,0 +1,13 @@
+%YAML:1.0
+---
+opencv_lbphfaces
+threshold: 80.0
+labels:
+- "person1"
+- "person2"
+- "person3"
+- "person4"
+- "person5"
+histogram:
+- 51
+- 81
